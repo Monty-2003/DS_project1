@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Monty-2003
+Copyright (c) 2024 DS:4002 Team 17
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
