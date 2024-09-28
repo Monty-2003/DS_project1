@@ -55,7 +55,7 @@ We conducted sentiment analysis to determine if Amazon book reviews have a posit
   
 * modeling.ipynb
   * Download a cleaned version of books_data and reviews_data (known as books_cleaned.csv and reviews_cleaned.csv)
-  * Load both datasets in python and return it
+  * Define and load both datasets in python and return it
   * Establish the categories for the respective datasets with '.info()'
   * Import train_test_split and DecisionTreeRegressor to perform tests
   * Prepare the features (X) and target (y)
@@ -69,8 +69,9 @@ We conducted sentiment analysis to determine if Amazon book reviews have a posit
 Contributors names:
 
 * Chetu Barot 
-* Travis Montgomery
 * Adarsh Mohanraju
+* Travis Montgomery
+
 
 ## License
 
