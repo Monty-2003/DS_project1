@@ -5,7 +5,7 @@ Analyzing Average Sentiment of Amazon Book Reviews
 
 ## Description
 
-We conducted sentiment analysis to determine if Amazon book reviews have a positive average sentiment across categories. To drive more impactful results, we expanded our scope to identify predictive factors behind a user’s review. By using a tree-based model like random forest or decision tree, we aimed to find the most significant variables influencing reviews for future authors.
+We conducted sentiment analysis to determine if Amazon book reviews have a positive average sentiment across various categorical classifications. To drive more impactful results, we expanded our scope to identify predictive factors behind a user’s review. By using a tree-based model like random forest or decision tree, we aimed to find the most significant variables influencing reviews for future authors.
 ## Section 1: Software and platform
 
 ### Types of software used for the project
