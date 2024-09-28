@@ -39,7 +39,8 @@ We conducted sentiment analysis to determine if Amazon book reviews have a posit
 
 * preprocessing.ipynb
   * Import software packages (os, numpy, seaborn, matplotlib, sklearn, and pandas) into python notebook
-  * Define and load book_data.csv and Books_rating.csv and return both csv datasets
+  * Copy data files found in data.md into your own Google Drive 
+  * Define and load book_data.csv and Books_rating.csv by connecting to Google Drive 
   * Determine each dataset's categories with '.info()' and use it for the project
   * Use '.head' method for both books and reviews datasets to return the first few rows of each dataset
   * Preprocessing (Clear missing values)
